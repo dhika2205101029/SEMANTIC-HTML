@@ -1,6 +1,10 @@
 # SEMANTIC-HTML
 Latihan Praktikum 1 SEMANTIC-HTML.
 
+Nama  : DHIKA SAPUTRI
+NIM   : 2205101029
+Kelas : 5B/TIF
+
 # Revisi bagian Index SEMANTIC-HTML 
 1. Kurangnya LINK tag pada modul *<link rel="stylesheet" href="style/style_index.css">*
 2. Kegunaan pada link tag ini bertujuan untuk menghubungkan antara dokumen yang sedang dibuat ini ke dokumen lainnya.
